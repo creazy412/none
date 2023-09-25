@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-25T12:46:13.231Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="vZxC2qFBQQ2HUcCoYUEZ" version="21.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-25T12:50:04.905Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="OuO5DNPLl3-hJYvhXsg-" version="21.8.2" type="github">
   <diagram name="第 1 页" id="8dmHlYvgoi_x5xGu6nhz">
     <mxGraphModel dx="2261" dy="758" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -19,7 +19,7 @@
         <mxCell id="SyNY362n3wv_6hlgljLO-4" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-120" y="200" as="sourcePoint" />
-            <mxPoint x="800" y="200" as="targetPoint" />
+            <mxPoint x="1010" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="SyNY362n3wv_6hlgljLO-5" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
@@ -69,12 +69,6 @@
         </mxCell>
         <mxCell id="SyNY362n3wv_6hlgljLO-15" value="查询学生成绩" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="106" y="520" width="25" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="SyNY362n3wv_6hlgljLO-16" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="420" as="sourcePoint" />
-            <mxPoint x="440" y="370" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="SyNY362n3wv_6hlgljLO-17" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -197,6 +191,111 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="490" y="481" as="sourcePoint" />
             <mxPoint x="490" y="521" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SyNY362n3wv_6hlgljLO-42" value="用户管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="751" y="321" width="25" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="SyNY362n3wv_6hlgljLO-43" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="763" y="321" as="sourcePoint" />
+            <mxPoint x="763" y="201" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SyNY362n3wv_6hlgljLO-44" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="SyNY362n3wv_6hlgljLO-42">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="764" y="481" as="sourcePoint" />
+            <mxPoint x="1191" y="371" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SyNY362n3wv_6hlgljLO-45" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="671" y="481" as="sourcePoint" />
+            <mxPoint x="871" y="481" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SyNY362n3wv_6hlgljLO-46" value="添加用户信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="661" y="521" width="25" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="SyNY362n3wv_6hlgljLO-47" value="删除用户信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="726" y="521" width="25" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="SyNY362n3wv_6hlgljLO-48" value="修改用户信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="791" y="521" width="25" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="SyNY362n3wv_6hlgljLO-49" value="查询用户信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="857" y="521" width="25" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="SyNY362n3wv_6hlgljLO-50" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="870" y="481" as="sourcePoint" />
+            <mxPoint x="870" y="521" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SyNY362n3wv_6hlgljLO-51" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="805" y="481" as="sourcePoint" />
+            <mxPoint x="805" y="521" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SyNY362n3wv_6hlgljLO-52" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="739" y="481" as="sourcePoint" />
+            <mxPoint x="739" y="521" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SyNY362n3wv_6hlgljLO-53" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="671" y="481" as="sourcePoint" />
+            <mxPoint x="671" y="521" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SyNY362n3wv_6hlgljLO-54" value="系统管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="999" y="321" width="25" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="SyNY362n3wv_6hlgljLO-55" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1011" y="321" as="sourcePoint" />
+            <mxPoint x="1011" y="201" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SyNY362n3wv_6hlgljLO-56" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="SyNY362n3wv_6hlgljLO-54">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1012" y="481" as="sourcePoint" />
+            <mxPoint x="1439" y="371" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SyNY362n3wv_6hlgljLO-57" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="919" y="481" as="sourcePoint" />
+            <mxPoint x="1050" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SyNY362n3wv_6hlgljLO-58" value="系统升级" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="909" y="521" width="25" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="SyNY362n3wv_6hlgljLO-59" value="系统备份" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="974" y="521" width="25" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="SyNY362n3wv_6hlgljLO-60" value="系统日志维护" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1039" y="521" width="25" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="SyNY362n3wv_6hlgljLO-63" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1053" y="481" as="sourcePoint" />
+            <mxPoint x="1053" y="521" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SyNY362n3wv_6hlgljLO-64" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="987" y="481" as="sourcePoint" />
+            <mxPoint x="987" y="521" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SyNY362n3wv_6hlgljLO-65" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="919" y="481" as="sourcePoint" />
+            <mxPoint x="919" y="521" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
