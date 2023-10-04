@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2023-10-04T13:17:49.682Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="viFckcCGmz9y1Gr6Hqcl" version="21.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-04T13:22:27.703Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="XUcot00oG6s10Oy0oZgw" version="21.8.2" type="github">
   <diagram name="第 1 页" id="8dmHlYvgoi_x5xGu6nhz">
     <mxGraphModel dx="1562" dy="830" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="SyNY362n3wv_6hlgljLO-1" value="系统功能" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="SyNY362n3wv_6hlgljLO-1" value="&lt;font face=&quot;宋体&quot;&gt;系统功能&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="316" y="90" width="210" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SyNY362n3wv_6hlgljLO-2" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" target="SyNY362n3wv_6hlgljLO-1" edge="1">
@@ -13,7 +13,7 @@
             <mxPoint x="281" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SyNY362n3wv_6hlgljLO-3" value="档案信息管理" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="SyNY362n3wv_6hlgljLO-3" value="&lt;font face=&quot;宋体&quot;&gt;档案信息管理&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="230" y="321" width="25" height="100" as="geometry" />
         </mxCell>
         <mxCell id="SyNY362n3wv_6hlgljLO-4" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
@@ -22,7 +22,7 @@
             <mxPoint x="723" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SyNY362n3wv_6hlgljLO-7" value="成绩管理" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="SyNY362n3wv_6hlgljLO-7" value="&lt;font face=&quot;宋体&quot;&gt;成绩管理&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="110" y="320" width="25" height="100" as="geometry" />
         </mxCell>
         <mxCell id="SyNY362n3wv_6hlgljLO-8" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
@@ -31,7 +31,7 @@
             <mxPoint x="122" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SyNY362n3wv_6hlgljLO-30" value="课程管理" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="SyNY362n3wv_6hlgljLO-30" value="&lt;font face=&quot;宋体&quot;&gt;课程管理&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="350" y="321" width="25" height="100" as="geometry" />
         </mxCell>
         <mxCell id="SyNY362n3wv_6hlgljLO-31" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
@@ -40,7 +40,7 @@
             <mxPoint x="362" y="201" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SyNY362n3wv_6hlgljLO-42" value="用户管理" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="SyNY362n3wv_6hlgljLO-42" value="&lt;font face=&quot;宋体&quot;&gt;用户管理&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="469" y="321" width="25" height="100" as="geometry" />
         </mxCell>
         <mxCell id="SyNY362n3wv_6hlgljLO-43" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
@@ -49,7 +49,7 @@
             <mxPoint x="481" y="201" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SyNY362n3wv_6hlgljLO-54" value="系统管理" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="SyNY362n3wv_6hlgljLO-54" value="&lt;font face=&quot;宋体&quot;&gt;系统管理&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="590" y="321" width="25" height="100" as="geometry" />
         </mxCell>
         <mxCell id="SyNY362n3wv_6hlgljLO-55" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
@@ -58,7 +58,7 @@
             <mxPoint x="602" y="201" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="I8LIH_9Fkx65qxhpIAAy-1" value="公告管理" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="I8LIH_9Fkx65qxhpIAAy-1" value="&lt;font face=&quot;宋体&quot;&gt;公告管理&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="710" y="320" width="25" height="100" as="geometry" />
         </mxCell>
         <mxCell id="I8LIH_9Fkx65qxhpIAAy-2" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
