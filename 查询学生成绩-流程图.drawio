@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-12T07:07:24.887Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="xx1wDQsqA9HZKu1lQPes" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-12T07:36:33.426Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="0OkU1yAl9L6lguVVvC69" version="22.0.4" type="github">
   <diagram name="第 1 页" id="9mdBt2A5E5MHPoM7-pv9">
     <mxGraphModel dx="1434" dy="758" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -13,22 +13,17 @@
         <mxCell id="OeqXJPOhHsxZF3j1uP_--3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OeqXJPOhHsxZF3j1uP_--5" target="OeqXJPOhHsxZF3j1uP_--11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OeqXJPOhHsxZF3j1uP_--4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OeqXJPOhHsxZF3j1uP_--5" target="OeqXJPOhHsxZF3j1uP_--7">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="OeqXJPOhHsxZF3j1uP_--5" value="是否已登录" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="1">
-          <mxGeometry x="240" y="160" width="100" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="OeqXJPOhHsxZF3j1uP_--6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OeqXJPOhHsxZF3j1uP_--7" target="OeqXJPOhHsxZF3j1uP_--11">
+        <mxCell id="OeqXJPOhHsxZF3j1uP_--4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OeqXJPOhHsxZF3j1uP_--5" target="OeqXJPOhHsxZF3j1uP_--8">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="450" y="300" as="targetPoint" />
+            <mxPoint x="390" y="200" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="450" y="315" />
+              <mxPoint x="430" y="200" />
+              <mxPoint x="430" y="590" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="OeqXJPOhHsxZF3j1uP_--7" value="登录" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="390" y="180" width="120" height="40" as="geometry" />
+        <mxCell id="OeqXJPOhHsxZF3j1uP_--5" value="是否查询学生成绩？" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="1">
+          <mxGeometry x="240" y="160" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="OeqXJPOhHsxZF3j1uP_--8" value="结束" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="230" y="570" width="120" height="40" as="geometry" />
@@ -54,9 +49,6 @@
         <mxCell id="OeqXJPOhHsxZF3j1uP_--13" value="展示成绩" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="230" y="480" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="OeqXJPOhHsxZF3j1uP_--14" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="410" y="278" width="40" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="OeqXJPOhHsxZF3j1uP_--15" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="280" y="248" width="40" height="30" as="geometry" />
         </mxCell>
@@ -67,8 +59,8 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="410" y="410" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="430" y="410" />
-              <mxPoint x="430" y="590" />
+              <mxPoint x="420" y="410" />
+              <mxPoint x="420" y="590" />
             </Array>
           </mxGeometry>
         </mxCell>
