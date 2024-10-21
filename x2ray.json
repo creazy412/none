@@ -1,0 +1,44 @@
+{
+  "inbounds": [
+    {
+      "port": 10808, // SOCKS 代理端口，在浏览器中需配置代理并指向这个端口
+      "listen": "127.0.0.1",
+      "protocol": "socks",
+      "settings": {
+        "udp": true
+      }
+    }
+  ],
+  "outbounds": [
+    {
+      "protocol": "vmess",
+      "settings": {
+        "vnext": [
+          {
+            "address": "172.93.37.127", // 服务器地址，请修改为你自己的服务器 ip 或域名
+            "port": 9000, // 服务器端口
+            "users": [
+              {
+                "id": "80c580aa-3d62-4868-b4b7-5ac5e7a9fa43"  // 记得替换这个字段，使用 `xray uuid` 或 `uuidgen` 生成
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "protocol": "freedom",
+      "tag": "direct"
+    }
+  ],
+  "routing": {
+    "domainStrategy": "IPOnDemand",
+    "rules": [
+      {
+        "type": "field",
+        "ip": ["geoip:private","geoip:cn"], // 绕过局域网和国内IP段
+        "outboundTag": "direct"
+      }
+    ]
+  }
+}
